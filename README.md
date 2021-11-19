@@ -20,7 +20,7 @@ limitations under the License.
 
 # doWhileAsync
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Invoke a function while a test condition is true.
 
@@ -253,10 +253,10 @@ doWhileAsync( fcn, predicate, done );
 
 ## See Also
 
--   [`@stdlib/utils/async/do-until`][@stdlib/utils/async/do-until]: invoke a function until a test condition is true.
--   [`@stdlib/utils/do-while`][@stdlib/utils/do-while]: invoke a function while a test condition is true.
--   [`@stdlib/utils/async/until`][@stdlib/utils/async/until]: invoke a function until a test condition is true.
--   [`@stdlib/utils/async/while`][@stdlib/utils/async/while]: invoke a function while a test condition is true.
+-   <span class="package-name">[`@stdlib/utils/async/do-until`][@stdlib/utils/async/do-until]</span><span class="delimiter">: </span><span class="description">invoke a function until a test condition is true.</span>
+-   <span class="package-name">[`@stdlib/utils/do-while`][@stdlib/utils/do-while]</span><span class="delimiter">: </span><span class="description">invoke a function while a test condition is true.</span>
+-   <span class="package-name">[`@stdlib/utils/async/until`][@stdlib/utils/async/until]</span><span class="delimiter">: </span><span class="description">invoke a function until a test condition is true.</span>
+-   <span class="package-name">[`@stdlib/utils/async/while`][@stdlib/utils/async/while]</span><span class="delimiter">: </span><span class="description">invoke a function while a test condition is true.</span>
 
 </section>
 
@@ -307,8 +307,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/utils-async-do-while/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/utils-async-do-while?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/utils-async-do-while.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/utils-async-do-while/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
